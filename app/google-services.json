@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962526500161",
+    "project_id": "smarthouse-9c1f8",
+    "storage_bucket": "smarthouse-9c1f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962526500161:android:0201fc9cbf1b85b6773dc0",
+        "android_client_info": {
+          "package_name": "com.example.shoppingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcGnnrphLVOSnZ_myFYVTNyidrNob3bG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
